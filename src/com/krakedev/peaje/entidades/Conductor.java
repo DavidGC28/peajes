@@ -43,8 +43,8 @@ public class Conductor {
 
  
     public void imprimir() {
-        System.out.println("Conductor [Cédula: " + cedula + 
+        System.out.println("Conductor /Cédula: " + cedula + 
                            ", Nombre: " + nombre + 
-                           ", Apellido: " + apellido + "]");
+                           ", Apellido: " + apellido +"/");
     }
 }
